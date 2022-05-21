@@ -1,4 +1,4 @@
-# detgas_1
+# DetGas - IoT Carbon Monoxide Gas Leakage Detector.
 
 A new Flutter project.
 
